@@ -11340,6 +11340,17 @@ section {
   padding-bottom: 5%;
 }
 
+#virtek{
+  width: 50%;
+  height: auto;
+  float: left;
+  margin: 1rem;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+}
+
 #radio{
   width: 50%;
   height: auto;
